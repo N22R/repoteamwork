@@ -1,3 +1,5 @@
+# Лабораторна робота №4
+# Мельник Назарій, варіант 13
 class Book:
     def __init__(self, pages=None, author=None, price=None):
         self.__pages = pages
